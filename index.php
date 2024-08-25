@@ -12,10 +12,10 @@
 
     <h1>SENSOR HUJAN</h1>
 <?php
-$servername = "server1.komputasi.org";
-$username = "komputas_komputas";
-$password = "XO0zgRvZVX";
-$dbname = "komputas_jemurancerdas";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "jemurancerdas";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
