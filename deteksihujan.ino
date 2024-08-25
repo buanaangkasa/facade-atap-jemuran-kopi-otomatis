@@ -14,7 +14,7 @@ bool motorActivated = false;
 
 const char* ssid = "Realme10"; // Ganti dengan SSID WiFi Anda
 const char* password = "1234567899"; // Ganti dengan password WiFi Anda
-const char* serverName = "http://jemurancerdas.komputasi.org/post-esp-data.php"; // Ganti dengan URL endpoint API Anda
+const char* serverName = "http://your-api.org/post-esp-data.php"; // Ganti dengan URL endpoint API Anda
 
 String apiKeyValue = "tPmAT5Ab3j7F9";
 String sensorName = "Raindrops Module";
